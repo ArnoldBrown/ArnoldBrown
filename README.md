@@ -1,6 +1,7 @@
+I'm a software engineer 👨 who is passionate about mobile technologies and open source.
 - 👋 Hi, I’m @ArnoldBrown
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m currently working on Android and React Native Apps
+- 🌱 Ask me about: Android, Kotlin, React Native, Java
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me arnoldbrown033@gmail.com
 
