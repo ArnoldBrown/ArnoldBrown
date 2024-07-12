@@ -1,8 +1,7 @@
-I'm a software engineer 👨 who is passionate about mobile technologies and open source.
+I'm a software engineer 👨 who is passionate about mobile technologies.
 - 👋 Hi, I’m Arnold Brown
-- 👀 I’m currently working on Android and React Native Apps
-- 🌱 Ask me about: Android, Kotlin, React Native, Java
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m currently working on Native Android, React Native Mobile Application and Web application using ReactJS
+- 🌱 Ask me about: Android, Kotlin, Java,  React Native, JavaScript, TypeScript, ReactJs
 - 📫 How to reach me arnoldbrown033@gmail.com
 
 <!---
